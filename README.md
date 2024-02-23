@@ -1,16 +1,24 @@
 # kyc_ocr
 
-A new Flutter project.
+Empower Your KYC Experience: Fluttering into the Future with Seamless Document Scanning and OCR Magic!
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Revolutionize KYC effortlessly with our Flutter-powered mobile app. Scan Aadhar, PAN, Voter ID, and DL documents seamlessly using Dart language. Experience the power of OCR technology to extract accurate text information. Your ID verification simplified, right at your fingertips! Trust Flutter for a swift and secure KYC process
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Steps
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](image.png)
+
+Click on Scan a Image (floatingbutton)
+Choose an Image from local Storage
+
+![alt text](image-1.png)
+
+Data will be printed below like this
+
+![alt text](image-2.png)
+
+Also as number of time you scan images it store its data into history page.
